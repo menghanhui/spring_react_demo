@@ -1,0 +1,85 @@
+{
+  "longTermAsset": [
+    { "id": 1, "name": "Primary Home", "interest": "1%", "amount": 0 },
+    { "id": 2, "name": "Second Home", "interest": "2%", "amount": 0 },
+    { "id": 3, "name": "Other", "interest": "", "amount": 0 }
+  ],
+  "liabilities": [
+    {
+      "id": 1,
+      "name": "Credit Card 1",
+      "pay": "200.00",
+      "interest": "50%",
+      "amount": 0
+    },
+    {
+      "id": 2,
+      "name": "Credit Card 2",
+      "pay": "150.00",
+      "interest": "22%",
+      "amount": 0
+    }
+  ],
+  "cashInvestments": [
+    { "id": 1, "name": "Chequing", "interest": "0%", "amount": 0 },
+    { "id": 2, "name": "Savings for Taxes", "interest": "0%", "amount": 0 },
+    { "id": 3, "name": "Rainy Day Fund", "interest": "0%", "amount": 0 },
+    { "id": 4, "name": "Savings for Fun", "interest": "0%", "amount": 0 },
+    { "id": 5, "name": "Savings for Travel", "interest": "0%", "amount": 0 },
+    {
+      "id": 6,
+      "name": "Savings for Personal Development",
+      "interest": "1.50%",
+      "amount": 0
+    },
+    { "id": 7, "name": "Investment1", "interest": "2.3%", "amount": 0 },
+    { "id": 8, "name": "Investment2", "interest": "2%", "amount": 0 },
+    { "id": 9, "name": "Investment3", "interest": "5%", "amount": 0 },
+    { "id": 10, "name": "Investment4", "interest": "10%", "amount": 0 },
+    { "id": 11, "name": "Investment5", "interest": "0%", "amount": 0 }
+  ],
+  "debt": [
+    {
+      "id": 1,
+      "name": "Mortgage 1",
+      "pay": "2000.00",
+      "interest": "2.60%",
+      "amount": 0
+    },
+    {
+      "id": 2,
+      "name": "Mortgage 2",
+      "pay": "3500.00",
+      "interest": "22%",
+      "amount": 0
+    },
+    {
+      "id": 3,
+      "name": "Line of Credit",
+      "pay": "500.00",
+      "interest": "5%",
+      "amount": 0
+    },
+    {
+      "id": 4,
+      "name": "Investment Loan",
+      "pay": "700.00",
+      "interest": "6%",
+      "amount": 0
+    },
+    {
+      "id": 5,
+      "name": "Student Loan",
+      "pay": "3500.00",
+      "interest": "22%",
+      "amount": 0
+    },
+    {
+      "id": 6,
+      "name": "Car Loan",
+      "pay": "3500.00",
+      "interest": "22%",
+      "amount": 0
+    }
+  ]
+}
